@@ -1,2 +1,2 @@
-# -----
-두들겨 패고 괜찮은지 살펴보기
+# My-Little-Stress-Launcher
+k6 + prometheus + grafana 부하 테스트 자동화 프로젝트
