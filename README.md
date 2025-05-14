@@ -3,7 +3,7 @@ k6 + prometheus + grafana 부하 테스트 자동화 프로젝트
 
 
 ## 사용 방법
-1. stress.js 파일을 수정하여 부하 테스트 시나리오를 작성합니다.
+1. scripts/stress.js 파일을 수정하여 부하 테스트 시나리오를 작성합니다.
 2. `docker compose up -d` 명령어로 docker를 실행합니다.
 3. http://localhost:3000 에 접속하여 Grafana 대시보드를 확인합니다.
     - admin/admin으로 로그인합니다.
